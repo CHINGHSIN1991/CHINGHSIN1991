@@ -5,23 +5,26 @@ a junior front-end developer.
 I am an adaptable learner in different professional fields, pursuing innovative solutions, and curious about everything. I am also a deep thinker, exceptionally enthusiastic about combining design and technology. After training in mathematics, design, graphics, and computer science, I try to organize these knowledge into a whole picture.
 
 ## GitHub status
-<div>
-  <img align="left" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api?username=CHINGHSIN1991&show_icons=true&bg_color=#FFF" />
-  <img align="right" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINGHSIN1991&layout=compact"/>
-<div/>
-  
-<hr/>
+<img align="left" width="48%" height="192px" src="https://github-readme-stats.vercel.app/api?username=CHINGHSIN1991&show_icons=true&bg_color=#FFF" />
+<img align="right" width="48%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINGHSIN1991&layout=compact"/>
+
+<!--
+https://shields.io/category/build
+https://github.com/Ileriayo/markdown-badges
+-->
 
 ## Skills
+
+here are skills I've used
 * Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
 * Backend Development ： Node.js ｜ Express
 * Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScript
 * Frameworks ： React ｜ Vue.js (Vue 3)
 * Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components
 * Cloud Services ： Firebase
-
 <!--
 Fundamentals
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
