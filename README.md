@@ -8,8 +8,8 @@ I am an adaptable learner in different professional fields, pursuing innovative 
 <img align="left" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api?username=CHINGHSIN1991&show_icons=true&bg_color=#FFF" />
 <img align="right" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINGHSIN1991&layout=compact"/>
 
+<hr/>
 
-.
 ## Skills
 * Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
 * Backend Development ： Node.js ｜ Express
