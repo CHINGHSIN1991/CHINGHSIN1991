@@ -5,13 +5,11 @@ a junior front-end developer.
 I am an adaptable learner in different professional fields, pursuing innovative solutions, and curious about everything. I am also a deep thinker, exceptionally enthusiastic about combining design and technology. After training in mathematics, design, graphics, and computer science, I try to organize these knowledge into a whole picture.
 
 ## GitHub status
-<img align="left" width="48%" height="192px" src="https://github-readme-stats.vercel.app/api?username=CHINGHSIN1991&show_icons=true&bg_color=#FFF" />
-<img align="right" width="48%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINGHSIN1991&layout=compact"/>
+<img align="left" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api?username=CHINGHSIN1991&show_icons=true&bg_color=#FFF" />
+<img align="right" width="47%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINGHSIN1991&layout=compact"/>
 
-.
 
 ## Skills
-
 * Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
 * Backend Development ： Node.js ｜ Express
 * Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScript
