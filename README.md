@@ -14,6 +14,7 @@ https://shields.io/category/build
 https://github.com/Ileriayo/markdown-badges
 -->
 
+<div width="16px">
 ## Skills
 
 here are skills I've used
