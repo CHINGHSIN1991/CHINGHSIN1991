@@ -16,9 +16,6 @@ https://github.com/Ileriayo/markdown-badges
 
 <div width="16px" height="80px">
 
-<br>
-<br>
-
 ## Skills
 
 here are skills I've used
