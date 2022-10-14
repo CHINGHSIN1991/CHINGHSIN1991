@@ -16,20 +16,23 @@ https://github.com/Ileriayo/markdown-badges
 
 <div width="16px" height="80px">
 
+<br>
+<br>
+
 ## Skills
 
 here are skills I've used
-<br>
+<br><br>
 Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
-<br>
+<br><br>
 Backend Development ： Node.js ｜ Express
-<br>
+<br><br>
 Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScript
-<br>
+<br><br>
 Frameworks ： React ｜ Vue.js (Vue 3)
-<br>
+<br><br>
 Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components
-<br>
+<br><br>
 Cloud Services ： Firebase
 <br>
 <!--
