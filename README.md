@@ -28,7 +28,7 @@ Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScr
 <br><br>
 Frameworks ： React ｜ Vue.js (Vue 3)
 <br><br>
-Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components
+Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components | jQuery
 <br><br>
 Cloud Services ： Firebase
 <br>
