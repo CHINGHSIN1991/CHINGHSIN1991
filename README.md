@@ -19,12 +19,12 @@ https://github.com/Ileriayo/markdown-badges
 ## Skills
 
 here are skills I've used
-Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
-Backend Development ： Node.js ｜ Express
-Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScript
-Frameworks ： React ｜ Vue.js (Vue 3)
-Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components
-Cloud Services ： Firebase
+- Fundamentals ： HTML5 ｜ CSS3  ｜ JavaScript
+- Backend Development ： Node.js ｜ Express
+- Tools for Development ： Webpack ｜ Git & GitHub | ESLint | Prettier | TypeScript
+- Frameworks ： React ｜ Vue.js (Vue 3)
+- Liberies ： React Router DOM ｜ Redux | Redux Toolkit | Styled Components
+- Cloud Services ： Firebase
 <!--
 Fundamentals
 
